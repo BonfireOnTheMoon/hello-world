@@ -1,3 +1,3 @@
 # hello-world
-Starting out on GitHub
+Starting out here
 Hoping to document database edits and SQL code here.
